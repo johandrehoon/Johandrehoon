@@ -1,28 +1,79 @@
 [![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)](https://johandrehoon.io)
+
 <h1 align="center">Hi 👋, I'm Johandre Hoon</h1>
-<h3 align="center">A passionate frontend/backend developer from Mosselbay a small town in South Africa</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/d4/81/f3/d481f3c72e283309071f79e01b05c06d.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=johandrehoon&label=Profile%20views&color=0e75b6&style=flat" alt="johandrehoon" /> </p>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F80ED&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;From+Mossel+Bay,+South+Africa;Lover+of+C%2B%2B,+Python,+and+Engines;Cyber+Security+Enthusiast" alt="Typing SVG" />
+  </a>
+</div>
 
-- 🌱 I’m currently learning **Python and C++ along with Cyber Security**
+<br/>
 
-- 💬 Ask me about **Python ,C++ or Networking**
+<table border="0" width="100%">
+  <tr>
+    <td width="60%" valign="top" style="border: none;">
+      <h3>🧐 About Me</h3>
+      <ul>
+        <li>🌱 I’m currently learning <strong>Python, C++, and Cyber Security</strong>.</li>
+        <li>💬 Ask me about <strong>Networking, Game Dev (Unreal), or Engines</strong>.</li>
+        <li>⚡ Fun fact: <strong>I am a passionate hockey player and love working on engines in my spare time!</strong></li>
+        <li>📫 How to reach me: <a href="mailto:johandreinvents1@gmail.com"><strong>johandreinvents1@gmail.com</strong></a></li>
+      </ul>
+      <h3>🤝 Connect with me</h3>
+      <p>
+        <a href="https://instagram.com/johandre_hoon22" target="blank">
+          <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="johandre_hoon22" />
+        </a>
+      </p>
+    </td>
+    <td width="40%" valign="center" style="border: none;">
+      <img src="https://i.pinimg.com/originals/d4/81/f3/d481f3c72e283309071f79e01b05c06d.gif" width="100%" alt="Coding GIF">
+    </td>
+  </tr>
+</table>
 
-- 📫 How to reach me **johandreinvents1@gmail.com**
+---
 
-- ⚡ Fun fact **I love sports and the outdoors and I am a passionate hockey player , aswell as I love working on Engins**
+### 🛠️ Languages and Tools
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/johandre_hoon19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="johandre_hoon19" height="30" width="40" /></a>
-</p>
+<div align="left">
+  
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS"/>
+  
+  <br/>
+  
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+  <img src="https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white" alt="Qt"/>
+  <img src="https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white" alt="Unreal"/>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
+  
+  <br/>
+  
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino"/>
+  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=johandrehoon&show_icons=true&locale=en&layout=compact" alt="johandrehoon" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=johandrehoon&show_icons=true&locale=en" alt="johandrehoon" /></p>
+### 📊 GitHub Stats
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=johandrehoon&" alt="johandrehoon" /></p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=johandrehoon&show_icons=true&locale=en&theme=radical&hide_border=true" alt="johandrehoon" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=johandrehoon&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="johandrehoon" width="48%" />
+</div>
+
+<div align="center">
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=johandrehoon&theme=radical&hide_border=true" alt="johandrehoon" />
+</div>
+
+<div align="center">
+  <br/>
+  <img src="https://github.com/johandrehoon/johandrehoon/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
